@@ -5,3 +5,5 @@ Lecture 2, Exercise 2
 - do not nest your repos
 
 'commit': allows you to save diferent versions of the file 
+
+'add <FILE>: adds <FIlE> to be reayd to commit 
